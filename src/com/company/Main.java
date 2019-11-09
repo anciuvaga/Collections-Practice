@@ -11,6 +11,7 @@ public class Main {
       list.add("Max");
       list.add("Vlad");
       list.add("Alexandru");
+      list.add("Ariadna");
 
       // Traversing list through Iterator
 
@@ -23,6 +24,7 @@ public class Main {
         linkedList.add("John");
         linkedList.add("Bob");
         linkedList.add("Bill");
+        linkedList.add("Maxim");
 
         Iterator itr1 = linkedList.listIterator();
         while(itr1.hasNext()){
